@@ -1,2 +1,2 @@
-Hallo, 
-Ini adalah Repository pertamaku dibuat dari PC lokal
+Repository baru dari PC lokal
+Belajar reset dan revert
